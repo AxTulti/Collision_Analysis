@@ -1,5 +1,4 @@
 function []=two_comets(x_axis, var_1, var_2)
-    figure;
     line_1 = animatedline('Color','r','LineWidth',1 );
     line_2 = animatedline('Color','b','LineWidth',1 );
 
